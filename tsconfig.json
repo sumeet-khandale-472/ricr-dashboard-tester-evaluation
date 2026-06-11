@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "esModuleInterop": true,
+    "strict": true,
+    "types": ["jest", "node"],
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts", "e2e/**/*.ts"]
+}
