@@ -1,6 +1,8 @@
 {
   "name": "ricr-dashboard-tester-evaluation",
   "private": true,
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 sumeet-khandale-472",
   "scripts": {
     "test": "jest --runInBand",
     "test:unit": "jest --runInBand src/tests",
